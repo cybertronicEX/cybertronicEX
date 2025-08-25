@@ -12,5 +12,7 @@ I'm currently working as a software engineer
 ![](https://nirzak-streak-stats.vercel.app/?user=cybertronicEX&theme=monokai&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cybertronicEX&theme=monokai&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+
+![Org Contributions](https://your-custom-widget.vercel.app/api/org-contributions?username=cybertronicEX)
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
